@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{4D3CD457-A8B3-4D2B-9237-96CBE9A8CB49}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="StudentTimeSheet/Views/Home/CreateAccout.cshtml">
+    <Files>
+      <File FileName="StudentTimeSheet/Views/Home/Index.cshtml" Line="16" Column="1" />
+      <File FileName="StudentTimeSheet/Views/Home/CreateAccout.cshtml" Line="17" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.StudentTimeSheet PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
